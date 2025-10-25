@@ -1,4 +1,4 @@
-# BreakOut (Paddle Game)  
+# arkanoid (Paddle Game)  
 
 This is a simple paddle game built using a basic GUI framework. The game is inspired by classic arcade games like **Breakout** and **Arkanoid**, where the player controls a paddle to bounce a ball and break bricks at the top of the screen.  
 
@@ -27,8 +27,3 @@ This is a simple paddle game built using a basic GUI framework. The game is insp
 ## 🎯 Game Progression  
 - As the game progresses, aim for a **higher score** by breaking more bricks.  
 - The difficulty may increase as you advance!  
-
----
-
-## 📷 Screenshot  
-can be found under the photos directory.
