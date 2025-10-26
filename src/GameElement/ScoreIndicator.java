@@ -1,4 +1,4 @@
-// Ori Kenigsbuch 206594590
+// Ori Kenigsbuch
 package GameElement;
 
 import GameObjects.Sprite;
@@ -58,3 +58,4 @@ public class ScoreIndicator implements Sprite {
         game.addSprite(this);
     }
 }
+
