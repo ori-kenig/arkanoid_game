@@ -1,4 +1,4 @@
-// Ori Kenigsbuch 206594590
+// Ori Kenigsbuch
 package GameObjects;
 
 import biuoop.DrawSurface;
@@ -75,3 +75,4 @@ import java.util.List;
         return this.spriteList;
     }
 }
+
