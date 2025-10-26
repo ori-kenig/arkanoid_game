@@ -1,5 +1,4 @@
-// Ori Kenigsbuch 206594590
-
+// Ori Kenigsbuch
 package GameObjects;
 
 import Geometry.Point;
@@ -43,4 +42,5 @@ public class CollisionInfo {
     public Collidable collisionObject() {
         return collidable;
     }
+
 }
