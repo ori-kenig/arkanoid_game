@@ -1,4 +1,4 @@
-// Ori Kenigsbuch 206594590
+// Ori Kenigsbuch
 package Geometry;
 
 import java.util.ArrayList;
@@ -257,4 +257,5 @@ public class Line {
         }
         return zones1;
     }
+
 }
