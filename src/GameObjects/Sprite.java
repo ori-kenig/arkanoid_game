@@ -1,5 +1,4 @@
-// Ori Kenigsbuch 206594590
-
+// Ori Kenigsbuch
 package GameObjects;
 
 import biuoop.DrawSurface;
@@ -23,3 +22,4 @@ public interface Sprite {
     void timePassed();
 
 }
+
