@@ -1,4 +1,4 @@
-// Ori Kenigsbuch 206594590
+// Ori Kenigsbuch
 package GameObjects;
 
 import GameElement.Ball;
@@ -37,4 +37,5 @@ public interface Collidable {
      * @return the new velocity of the object after the collision.
      */
     Velocity hit(Ball hitter, Point collisionPoint, Velocity currentVelocity);
+
 }
