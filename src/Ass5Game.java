@@ -1,5 +1,4 @@
-// Ori Kenigsbuch 206594590
-
+// Ori Kenigsbuch
 import GameElement.Game;
 
 /**
@@ -20,3 +19,4 @@ public class Ass5Game {
         game.run();
     }
 }
+
