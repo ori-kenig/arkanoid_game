@@ -1,4 +1,4 @@
-// Ori Kenigsbuch 206594590
+// Ori Kenigsbuch
 package Listeners;
 
 import GameElement.Ball;
@@ -36,3 +36,4 @@ public class BallRemover implements HitListener {
         remainingBalls.decrease(1);
     }
 }
+
