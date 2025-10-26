@@ -1,4 +1,5 @@
-package Listeners;// Ori Kenigsbuch 206594590
+// Ori Kenigsbuch
+package Listeners;
 
 /**
  * The HitNotifier interface represents an object that can notify listeners about hit events.
@@ -23,3 +24,4 @@ public interface HitNotifier {
     // The hitter parameter is the GameElement.Ball that's doing the hitting.
 //    void hitEvent(Block beingHit, Ball hitter);
 }
+
