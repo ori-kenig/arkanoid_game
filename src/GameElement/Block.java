@@ -1,5 +1,4 @@
-// Ori Kenigsbuch 206594590
-
+// Ori Kenigsbuch
 package GameElement;
 
 import GameObjects.Collidable;
@@ -204,3 +203,4 @@ public class Block implements Collidable, Sprite {
         this.hitListeners.remove(hl);
     }
 }
+
