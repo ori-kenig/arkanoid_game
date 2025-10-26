@@ -1,5 +1,4 @@
-// Ori Kenigsbuch 206594590
-
+// Ori Kenigsbuch
 package GameElement;
 
 /**
@@ -46,3 +45,4 @@ public class Counter {
         return this.value;
     }
 }
+
