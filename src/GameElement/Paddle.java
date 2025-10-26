@@ -1,4 +1,4 @@
-// Ori Kenigsbuch 206594590
+// Ori Kenigsbuch
 package GameElement;
 
 import GameObjects.Collidable;
@@ -226,3 +226,4 @@ public class Paddle implements Sprite, Collidable {
         g.addSprite(this);
     }
 }
+
