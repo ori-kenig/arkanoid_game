@@ -1,5 +1,4 @@
-// Ori Kenigsbuch 206594590
-
+// Ori Kenigsbuch
 package GameElement;
 import Geometry.Point;
 import java.util.Random;
@@ -154,3 +153,4 @@ public class Velocity {
         return new Point(p.getX() + dx, p.getY() + dy);
     }
 }
+
