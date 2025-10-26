@@ -1,4 +1,4 @@
-// Ori Kenigsbuch 206594590
+// Ori Kenigsbuch
 package Geometry;
 
 /**
@@ -76,4 +76,5 @@ public class Point {
     public double getY() {
         return this.y;
     }
+
 }
