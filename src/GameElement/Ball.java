@@ -1,4 +1,4 @@
-// Ori Kenigsbuch 206594590
+// Ori Kenigsbuch
 package GameElement;
 
 import Geometry.Line;
@@ -271,4 +271,5 @@ public class Ball implements Sprite {
     public void setColor(Color color) {
         this.color = color;
     }
+
 }
